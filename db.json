@@ -1,6 +1,4 @@
-[
-  {
-
+{"test":[{
     "name":"Catedral de giron",
     "description":"la catedral mas antigua en la zona",
     "points":"3",
@@ -29,5 +27,5 @@
     "description":"Ubicado en el municipo de floridablanca es un de los sitios mas ...",
     "points":"5",
     "image": "https://cdn.pixabay.com/photo/2021/03/25/21/00/santander-6124191_1280.jpg"
-  }
-]
+  }]
+}
