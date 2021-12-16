@@ -2,30 +2,45 @@
     "name":"Catedral de giron",
     "description":"la catedral mas antigua en la zona",
     "points":"3",
-    "image": "https://cdn.pixabay.com/photo/2017/08/15/14/46/cathedral-2644200_1280.jpg"
+    "image": "https://cdn.pixabay.com/photo/2017/08/15/14/46/cathedral-2644200_1280.jpg",
+    "location": "Cl. 30 #26-54, Girón, Santander",
+    "temperature": "24°C",
+    "info": "De nombre completo Basílica Menor de San Juan Bautista, es una fiel réplica de la iglesia de Santa María Mayor de Roma y está considerada como la obra arquitectónica más bellas de Girón. Esta situada en la plaza principal de este pueblo, declarado monumento nacional. En el interior destaca el crucifijo del Señor de los Milagros del altar mayor."
   },
   {
     "name":"Parque los niños",
     "description":"uno de los parque emblematicos de la ciudad",
     "points":"2",
-    "image": "https://cdn.pixabay.com/photo/2021/10/07/15/24/park-6688951_960_720.jpg"
+    "image": "https://cdn.pixabay.com/photo/2021/10/07/15/24/park-6688951_960_720.jpg",
+    "location": "Cl. 32, Bucaramanga, Santander",
+    "temperature": "23°C",
+    "info": "El parque de los niños también conocido como el bosque natural de la ciudad bonita es uno de los principales parques de nuestra ciudad, allí podemos encontrar canchas de tenis, canchas de básquet, canchas de fútbol, baños públicos y monumentos que resaltan la belleza de la naturaleza en nuestro parque."
   },
   {
     "name":"Parque san pio",
     "description":"Este parque con la escultura de botero se...",
     "points":"4",
-    "image": "https://cdn.pixabay.com/photo/2018/08/27/23/52/church-3636280_1280.jpg"
+    "image": "https://cdn.pixabay.com/photo/2018/08/27/23/52/church-3636280_1280.jpg",
+    "location": "Cra. 33 #45, Bucaramanga, Santander",
+    "temperature": "23°C",
+    "info": "Parque Guillermo Sorzano Gonzales en memoria al Medico y Ex Alcalde de Bucaramanga, es uno de los más grandes de Bucaramanga y los más queridos, desde que la urbanizadora de Don David PUYANA (Unas de las familias más poderosas de Bucaramanga) dono el terreno en 1969 este parque ha recibido varias remodelaciones antes tenía una fuente de agua ahora solo podemos disfrutar de basto prado y arbolización."
   },
   {
     "name":"Casa de Bolivar",
     "description":"se encuentra ubicada en el centro de la ciudad...",
     "points":"3",
-    "image": "https://cdn.pixabay.com/photo/2019/09/20/14/23/bogota-4491750_1280.jpg"
+    "image": "https://cdn.pixabay.com/photo/2019/09/20/14/23/bogota-4491750_1280.jpg",
+    "location": "Cl. 36 #12-76, Bucaramanga, Santander",
+    "temperature": "23°C",
+    "info": "De acuerdo a la historia, en 1828 el libertador Simón Bolívar visitó la Villa de Bucaramanga y se hospedó durante dos meses, en una de las muchas viviendas de tapia pisada y teja de barro, que se construían en esa época. Sin ser el dueño, esta casa obtuvo el nombre de Casa de Bolívar."
   },
   {
     "name":"Cerro Santisimo",
     "description":"Ubicado en el municipo de floridablanca es un de los sitios mas ...",
     "points":"5",
-    "image": "https://cdn.pixabay.com/photo/2021/03/25/21/00/santander-6124191_1280.jpg"
+    "image": "https://cdn.pixabay.com/photo/2021/03/25/21/00/santander-6124191_1280.jpg",
+    "location": "Hacienda La Esperanza km1 Vereda Casiano Bajo, Floridablanca, Santander",
+    "temperature": "24°C",
+    "info": "La naturaleza y moderna tecnología se juntan en este espectacular parque, que sin lugar a dudas cada día se consolida como el nuevo destino para visitar en Santander. Ubicado en el municipio de Floridablanca, El santísimo, principal atractivo del Ecoparque, es el encargado de custodiar el Área Metropolitana de Bucaramanga. La monumental escultura tiene 38 metros de alto y 40 toneladas aproximandamente. Su silueta es la de un hombre con cabello largo, cubierto por una túnica y con la mano elevada hacia arriba."
   }]
 }
